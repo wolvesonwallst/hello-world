@@ -1,2 +1,3 @@
 # hello-world
-portfolio
+code journal
+<!--getting started with the odin project-->
